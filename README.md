@@ -23,7 +23,7 @@
 
 ## 프로젝트 시연 영상
 
-[Book Mark Saver Youtube](https://youtu.be/2X9BvUnaZJQ)
+[Book Mark Saver Youtube](https://www.youtube.com/watch?v=4hvtKdHu_VM)
 
 ## 기술 스택
 
@@ -48,8 +48,6 @@
 
 ## 구현 기능
 
-------
-
 ### 1. 메인 페이지
 
 ![CleanShot 2023-01-14 at 18 02 09](https://user-images.githubusercontent.com/76584961/212464545-995c421b-fca8-4d5d-bd22-7469f39ad8e4.png)
@@ -67,8 +65,5 @@ typing 텍스트 효과를 포함한 메인 홈 페이지. 바로 시작하기 �
 ![image](https://user-images.githubusercontent.com/76584961/212464618-bdca6691-c800-4527-b582-799142da9f72.png)
 저장할 사이트의 URL, 카테고리, 태그를 입력하게 되면 해당 웹사이트의 썸네일과 클릭해 이동할 수 있는 링크, 카테고리와 태그가 나타나게 됩니다. 그리고 북마크버튼을 누르게 되면 위 메인 페이지 이미지 처럼 아래에 포스트카드 형식으로 뿌려지게 됩니다.
 #### 3-1 구현 화면
-![CleanShot 2023-01-14 at 16 54 14](https://user-images.githubusercontent.com/76584961/212464590-64bd1ff5-0fb9-4759-ae45-d8ce3ef3f24f.gif)
-
-
-
+![CleanShot 2023-01-15 at 00 03 48](https://user-images.githubusercontent.com/76584961/212478632-6c59c561-6659-4e51-85fa-83ca4b56b402.gif)
 
